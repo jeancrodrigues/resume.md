@@ -124,13 +124,12 @@ def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
     html64 = base64.b64encode(html.encode("utf-8"))
     options = [
         "--headless",
+        "--verbose",
+        "--disable-gpu",
         "--print-to-pdf-no-header",
         "--enable-logging=stderr",
         "--log-level=2",
     ]
-    # https://bugs.chromium.org/p/chromium/issues/detail?id=737678
-    if sys.platform == "win32":
-        options.append("--disable-gpu")
 
     tmpdir = tempfile.TemporaryDirectory(prefix="resume.md_")
     options.append(f"--crash-dumps-dir={tmpdir.name}")
