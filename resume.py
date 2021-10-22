@@ -177,6 +177,13 @@ if __name__ == "__main__":
         help="Do not write html output",
         action="store_true",
     )
+
+    parser.add_argument(
+        "--output-prefix",
+        help="Prefix name to be saved",
+        default="resume",
+    )
+
     parser.add_argument(
         "--no-pdf",
         help="Do not write pdf output",
@@ -194,16 +201,18 @@ if __name__ == "__main__":
     else:
         logging.basicConfig(level=logging.INFO, format="%(message)s")
 
-    prefix, _ = os.path.splitext(args.file)
+    prefix , _ = os.path.splitext(args.file)
+
+    output_name = args.output_prefix
 
     with open(args.file, encoding="utf-8") as mdfp:
         md = mdfp.read()
     html = make_html(md, prefix=prefix)
 
     if not args.no_html:
-        with open(prefix + ".html", "w", encoding="utf-8") as htmlfp:
+        with open(output_name + ".html", "w", encoding="utf-8") as htmlfp:
             htmlfp.write(html)
             logging.info(f"Wrote {htmlfp.name}")
 
     if not args.no_pdf:
-        write_pdf(html, prefix=prefix, chrome=args.chrome_path)
+        write_pdf(html, prefix=output_name, chrome=args.chrome_path)
