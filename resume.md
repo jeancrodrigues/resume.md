@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Software Developer with 10+ years of experience in Software Development with Java. Skilled Devops pratictioner with 4 years of expertise in application deployment and monitoring. Solid understanding of Linux infrastruture with a willingness to learn and master SRE skills.
+Software Developer with 10+ years of experience in Software Development with Java. Skilled Devops practitioner with 4 years of expertise in application deployment and monitoring. Solid understanding of Linux infrastructure with a willingness to learn and master SRE skills.
 
 ## Professional Experience
 
@@ -35,7 +35,7 @@ hand -->
 
  - Linux and Windows Server network administration and maintenance. Configuration and administration of Windows Domain Servers. 
 
- - Worked closely to development teams supporting Devops tasks and applications deployment using Gitlab and Gitlab pipelines for CI/CD.
+ - Worked closely with development teams supporting Devops tasks and applications deployment using Gitlab and Gitlab pipelines for CI/CD.
 
  - Helped the network team in designing and implementing firewall policies and network security rules using PFSense firewalls.
 
