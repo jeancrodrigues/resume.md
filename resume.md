@@ -11,56 +11,56 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Software Developer with 10+ years of experience in Software Development with Java. Skilled Devops practitioner with 4 years of expertise in application deployment and monitoring. Solid understanding of Linux infrastructure with a willingness to learn and master SRE skills.
+Desenvolvedor Fullstack Java com mais de 7 anos de experiência em múltiplos projetos. Experiência com metodologia Devops trabalhando com pipelines de implantação, testes e monitoramento de aplicações web. Sólido conhecimento de infraestrutura de redes e Linux. Continuamente aprendendo tecnologias novas e sempre aprimorando os conhecimentos em engenharia de software e melhores práticas de desenvolvimento. 
 
-## Professional Experience
+## Experiência Profissional
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Software Developer, Federal University of Paraná - UFPR</span> <sup><sub><span>Oct 2017-Present</span>
+### <span>Analista Desenvolvedor Java, Universidade Federal do Paraná - UFPR</span> <sup><sub><span>Out 2017-Atual</span>
 
- - Participate in Software Development of high available academic management systems using Java, Spring, JSP, JPA, Vuejs, Redis and Mysql.
+ - Participa do Desenvolvimento da plataforma web de gestão acadêmica de alta disponibilidade utilizando linguagem Java e framework Spring. Utiliza no dia a dia as tecnologias JSP, JPA, Vuejs, Redis e Mysql, e práticas ágeis de desenvolvimento Scrum.
 
- - Leads a team of developers using agile processes in designing and developing an enterprise application for processes management with Java, Spring, Spring Boot, Mysql and Vuejs and unit tests with Junit and Mockito.
+ - Lidera uma equipe de desenvolvedores concepção e desenvolvimento de uma aplicação para gerenciamento de processos com Java, Spring, Spring Boot, Mysql e Vuejs e testes unitários com Junit e Mockito.
 
- - Implanted a high availability infrastructure using Nginx, Docker, Docker Swarm and Docker Compose, Weave and Payara Application Server improving reliability and reducing system downtime.
+- Implantou uma infraestrutura de alta disponibilidade usando Nginx, Docker, Docker Swarm e Docker Compose, Weave e Payara Application Server melhorando a confiabilidade das aplicações e reduzindo o tempo de indisponibilidade do sistema.
 
- - Implanted and maintained CI/CD processes using Gitlab pipelines and Shell scripts for production, staging and development environments reducing manual work and improving developer experience. 
+ - Implantou e mantem processos de CI/CD usando pipelines Gitlab e scripts Shell para ambientes de produção, teste e desenvolvimento, reduzindo o trabalho manual e melhorando a experiência da equipe de desenvolvedores. 
  
- - Implanted monitoring using Prometheus, Grafana and central log management with Loki and Promtail enabling the development team to better track and correct bugs.
+ - Implantou e mantém a infraestrutura de monitoramento das aplicações usando tecnologias como Prometheus, Grafana e gerenciamento central de logs com Loki e Promtail, permitindo que a equipe de desenvolvimento acompanhe e gere melhores métricas sobre o desempenho das plataformas.
  
- - Optimized systems infrastructure for academic enrollment, supporting more than fifteen thousand concurrent users, enhancing application stability and improving user experience. Developed and applied load tests using JMeter and Docker containers for distributed testing. Developed integration tests using Selenium and Robot Framework.
+ - Trabalha para otimizar a infraestrutura das aplicações, que suporta mais de quinze mil usuários simultâneos, para aprimorar a estabilidade das aplicações e melhorar a experiência do usuário. Desenvolve e aplica testes de carga usando tecnologias como JMeter e Docker para executar testes distribuídos de carga. Desenvolve de testes de integração utilizando Selenium e Robot Framework.
 
-### <span>Systems Administrator, Federal University of Technology - Paraná</span> <sup><sub><span>Aug/2014 - Oct/2017</span>
+### <span>Administrador de Sistemas, Universidade Tecnológica Federal do Paraná - UTFPR</span> <sup><sub><span>Ago/2014 - Out/2017</span>
 
- - Linux and Windows Server network administration and maintenance. Configuration and administration of Windows Domain Servers. 
+ - Administração e manutenção de redes Linux e Windows Server. Configuração e administração de servidores de domínio Windows.
 
- - Worked closely with development teams supporting Devops tasks and applications deployment using Gitlab and Gitlab pipelines for CI/CD.
+ - Trabalhou em estreita colaboração com equipes de desenvolvimento dando suporte a tarefas Devops e implantação de aplicativos usando Gitlab e pipelines Gitlab para CI/CD.
 
- - Helped the network team in designing and implementing firewall policies and network security rules using PFSense firewalls.
+ - Ajudou a equipe de gerenciamento de redes no projeto e implementação de políticas de firewall e regras de segurança de rede usando firewalls PFSense.
 
- - Implanted network monitoring services including more than a hundred HP and Cisco network switches using SNMP protocol and Zabbix monitoring tool. Configured monitoring of Linux and Windows servers using Grafana Dashboards.
+ - Implantou serviços de monitoramento de rede, incluindo mais de cem switches de rede HP e Cisco usando protocolo SNMP e ferramenta de monitoramento Zabbix. Implantou a plataforma de monitoramento de servidores Linux e Windows usando Zabbix em conjunto com Grafana.
  
- - Implanted Windows Update Services and Kaspersky Endpoint Security on university campus. Maintained VMWare servers and implanted Veeam backup routines. Implemented automated backup routines using bash and python scripts.
+ - Implantou um servidor de atualização Windows (WSUS) e o Kaspersky Endpoint Security no campus da universidade. Trabalhou no gerenciamento de servidores VMWare e implantação de rotinas de backup Veeam. Implementou rotinas de backup automatizadas usando scripts bash e python.
  
 ### <span>Java Developer, Cinq Technologies</span> <span><sup><sub>Jun/2013 - Jun/2014</span>
 
- - Development of Java applications using JSP, JSF and JPA. Legacy Java Applications support and maintenance.   
+ - Participou no desenvolvimento de aplicações Java utilizando JSP, JSF e JPA. Atuou nas tarefas de sustentação de aplicativos Java legados.
 
-### <span>Systems Developer, Parceria Informática</span> <span><sup><sub>Oct/2011 - Aug/2014</span>
+### <span>Desenvolvedor de Sistemas, Parceria Informática</span> <span><sup><sub>Out/2011 - Ago/2014</span>
 
- - Linux systems administration. Application development and support using Java and PHP programming languages and MySql databases.  
+ - Administração de sistemas Linux. Desenvolvimento e suporte de aplicações utilizando linguagens de programação Java e PHP e banco de dados MySql.
 
-## Education
+## Educação
 
-### <span>Federal University of Technology - Paraná</span><sup> <sub>2021 - Present 
-*Professional Master's Degree in Applied Computing candidate (In Progress)*  
+### <span>Universidade Tecnológica Federal do Paraná - UTFPR</span><sup> <sub>2021 - Atual 
+*Mestrado Profissional em Computação Aplicada (Em Progresso)*  
 
-### <span>VincIT Innovation Center - UNICIV</span><sup> <sub>2018 - 2019
-*Specialization course in Software Engineering with Software Testing and Quality emphasis*
+### <span>Centro de Inovação VincIT - UNICIV</span><sup> <sub>2018 - 2019
+*Especialização em Engenharia de Software com ênfase em Testes e Qualidade de Software*
 
-### <span>Federal University of Technology - Paraná</span><sup> <sub>2011 - 2014 
-*BTech in Systems Analysis and Development*
+### <span>Universidade Tecnológica Federal do Paraná - UTFPR</span><sup> <sub>2011 - 2014 
+*Curso Superior de Técnologia em Análise e Desenvolvimento de Sistemas*
 
 ## Key Skills
  
@@ -71,9 +71,8 @@ hand -->
  - Testing: JUnit, Mockito, JMeter, Selenium, Robot Framework
  - Front End: JSF, JSP, HTML, CSS, JavaScript, Vuejs
  
-## Languages
+## Idiomas
 
- - English: Proficient
- - Portuguese : Native Speaker
+ - Inglês: Avançado
 
  
