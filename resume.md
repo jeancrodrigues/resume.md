@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Software Developer with 7+ years of experience in Software Development with Java. Skilled Devops practitioner with 4 years of expertise in application deployment and monitoring. Solid understanding of Linux infrastructure with a willingness to learn and master software development best pratices.
+Software Developer with solid experience in Software Development with Java. Passionate Devops practitioner with 4 years of expertise in application deployment and monitoring. Solid understanding of Linux infrastructure with a willingness to learn and master software development best practices.
 
 ## Professional Experience
 
@@ -21,19 +21,19 @@ hand -->
 
  - Participates in the software development lifecycle, designing, implementing and maintaining REST APIs and integrations, using agile and TDD methodologies and tools like JUnit and Mockito.
 
- - Design, develop and evolve Spring Boot REST apis and microservices using Spring framework, GCP cloud services and Pub Sub messaging.  
+ - Design, develop and evolve Spring Boot REST apis and microservices using Spring framework and GCP cloud services. Design and develop event driven microservices in Hexagonal Architecture and using DDD approach and GCP PubSub messaging service.  
 
- - Write technical documentation and RFCs proposals and help the development team in the software evolution using software development best pratices.
+ - Write technical documentation and RFCs proposals and help the development team in the software evolution using software development best practices.
 
- - Participates in company tech talks giving presentations on software development best pratices, microservices patterns and new technologies and methodologies.
+ - Participates in company tech talks giving presentations on software development best practices, domain driven design, event driven microservices patterns and new technologies.
 
- - Work together with ops teams defining and implementing software continuous integration and develivery pipelines using Docker and Gitlab CI/CD Pipelines.
+ - Work together with devops teams implementing and improving the continuous integration and continuous delivery pipelines using Docker and Gitlab CI/CD Pipelines.
 
 ### <span>Software Developer, Federal University of Paraná - UFPR</span> <sup><sub><span>Oct 2017-Jan 2022</span>
 
  - Participate in Software Development of high available academic management systems using Java, Spring, JSP, JPA, Vuejs, Redis and Mysql. Lead a team of developers using agile processes in designing and developing an enterprise application for processes management with Java, Spring, Spring Boot, Mysql and Vuejs and unit tests with Junit and Mockito.
 
- - Implanted a high availability infrastructure using Nginx, Docker, Docker Swarm and Docker Compose, Weave and Payara Application Server improving reliability and reducing system downtime which supports more than fifteen thousand concurrent users, enhancing application stability and improving user experience.
+ - Implanted a high availability infrastructure using Nginx, Docker, Docker Swarm and Docker Compose, Weave and Payara Application Server improving reliability and reducing system downtime supporting fifteen thousand concurrent users, enhancing application stability and improving user experience.
 
  - Implanted and maintained CI/CD processes using Gitlab pipelines and Shell scripts for production, staging and development environments reducing manual work and improving developer experience. 
  
